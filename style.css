@@ -1,0 +1,19 @@
+.calendar{
+    border:1px;
+    cellpadding:0px;
+    cellspacing:0px;
+    border-collapse:collapse;
+}
+.calendar td {
+    width:3em;
+    height:3em;
+}
+
+.festivityDay{
+    background-color:pink;
+    font-weight: bolder;
+}
+
+.nonFestivityDay{
+    background-color:white;
+}
